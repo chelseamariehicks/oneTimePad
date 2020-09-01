@@ -1,9 +1,5 @@
 /**********************************************************************************
  * Name: Chelsea Marie Hicks
- * ONID 931286984
- * Course: CS 344
- * Assignment: Assignment #3
- * Due Date: August 6, 2020 by 11:59 PM
  * 
  * Description: Program to decrypt an encrypted text file according to the unique key
  *      file provided as an argument. Program listens on a particular assigned port
