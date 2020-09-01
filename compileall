@@ -1,0 +1,11 @@
+#!/bin/bash
+#Compile all file for compiling Assignment 3 programs by Chelsea Marie Hicks
+#This file matches the supplied file for the assignment.
+#
+#
+#
+gcc -o keygen keygen.c
+gcc -o enc_client enc_client.c
+gcc -o enc_server enc_server.c
+gcc -o dec_client dec_client.c
+gcc -o dec_server dec_server.c
