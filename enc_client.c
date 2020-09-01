@@ -1,9 +1,5 @@
 /**********************************************************************************
  * Name: Chelsea Marie Hicks
- * ONID 931286984
- * Course: CS 344
- * Assignment: Assignment #3
- * Due Date: August 6, 2020 by 11:59 PM
  * 
  * Description: Program connects to enc_server and has enc_server perform a one-
  *      time pad style encryption using an alphashift method. This program provides
