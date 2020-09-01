@@ -1,9 +1,5 @@
 /**********************************************************************************
  * Name: Chelsea Marie Hicks
- * ONID 931286984
- * Course: CS 344
- * Assignment: Assignment #3
- * Due Date: August 6, 2020 by 11:59 PM
  * 
  * Description: Program creates a key file of a specified length. The characters 
  *      in the file are of 27 allowable values, the 26 letters of the alphabet 
